@@ -1,4 +1,4 @@
-URL_Shortner
+URL_Shortnr
 ============
 
 Simple URL shortener for PHP which uses MySQL database to store URLs.
